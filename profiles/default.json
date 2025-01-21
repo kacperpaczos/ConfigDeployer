@@ -1,0 +1,10 @@
+{
+    "debug": false,
+    "server": {
+        "ip": "localhost",
+        "username": "user",
+        "password": "",
+        "sudo_password": "",
+        "apps_dir": "/apps"
+    }
+}
